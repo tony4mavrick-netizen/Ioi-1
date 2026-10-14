@@ -1,0 +1,8 @@
+{
+  "name": "TownSquare - Local Community Network",
+  "description": "A neighborhood community network for sharing local updates, discovering nearby events, finding trusted recommendations, and staying connected with neighbors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
